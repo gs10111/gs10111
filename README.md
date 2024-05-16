@@ -17,6 +17,8 @@
 />
 <img  align="center"alt="C"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img  align="center"alt="C#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img  align="center"alt="JAVA"src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)"/> 
+<img  align="center"alt="SPRING"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)"/>  
 </div><br>
 
 ## Sou um entusiasta da tecnologia e da sua incrível capacidade de inovação e criação
