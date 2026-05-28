@@ -4,7 +4,7 @@
 )](https://www.linkedin.com/in/gabriel-silveira-090baa1a3/)
 
 
-![gs10111's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs10111&show_icons=true&theme=transparent)
+
 
 
 ## Tecnologias que eu utilizo
